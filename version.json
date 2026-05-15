@@ -1,1 +1,6 @@
-  {"version":"0.2","downloadUrl":"https://github.com/EasyBrowserMaster/EasyBrowserMaster.github.io/releases/download/v1.0.0-test/EasyLauncher-Win-v1.0.0.7z","releaseNotes":"修复xxx","publishedAt":"2026-05-15"}
+{
+	"version": "0.1.0",
+	"downloadUrl": "https://github.com/EasyBrowserMaster/EasyBrowserMaster.github.io/releases/download/v0.1.0/EasyLauncher-Win-v0.1.0.7z",
+	"releaseNotes": "日常功能更新",
+	"publishedAt": "2026-05-15"
+}
