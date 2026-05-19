@@ -1,7 +1,7 @@
 {
-	"version": "0.4.0",
-	"downloadUrl": "https://github.com/EasyBrowserMaster/EasyBrowserMaster.github.io/releases/download/v0.4.0/EasyLauncher-Win-v0.4.0.7z",
+	"version": "0.4.1",
+	"downloadUrl": "https://github.com/EasyBrowserMaster/EasyBrowserMaster.github.io/releases/download/v0.4.1/EasyLauncher-Win-v0.4.1.7z",
 	"releaseNotes": "增加付费功能:本地API支持",
-	 "includeBrowser":true,
+	 "includeBrowser":false,
 	"publishedAt": "2026-05-19"
 }
