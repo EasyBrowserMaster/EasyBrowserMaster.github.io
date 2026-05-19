@@ -1,7 +1,7 @@
 {
-	"version": "0.3.0",
-	"downloadUrl": "https://github.com/EasyBrowserMaster/EasyBrowserMaster.github.io/releases/download/v0.3.0/EasyLauncher-Win-v0.3.0.7z",
-	"releaseNotes": "增加导入导出功能，环境增加账户、密码、cookie、2fa等字段",
+	"version": "0.4.0",
+	"downloadUrl": "https://github.com/EasyBrowserMaster/EasyBrowserMaster.github.io/releases/download/v0.4.0/EasyLauncher-Win-v0.4.0.7z",
+	"releaseNotes": "增加付费功能:本地API支持",
 	 "includeBrowser":true,
-	"publishedAt": "2026-05-15"
+	"publishedAt": "2026-05-19"
 }
