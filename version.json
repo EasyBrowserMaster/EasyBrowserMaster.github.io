@@ -1,7 +1,7 @@
 {
-	"version": "0.5.0",
+	"version": "0.6.0",
 	"downloadUrl": "https://github.com/EasyBrowserMaster/EasyBrowserMaster.github.io/releases/download/v0.5.0/EasyLauncher-Win-v0.5.0.7z",
-	"releaseNotes": "指纹语言支持修改，增加备注功能，浏览器内核优化",
+	"releaseNotes": "浏览器内核优化",
 	 "includeBrowser":true,
-	"publishedAt": "2026-05-21"
+	"publishedAt": "2026-05-22"
 }
