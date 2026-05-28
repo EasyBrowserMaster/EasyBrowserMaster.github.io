@@ -1,6 +1,6 @@
 # EasyBrowser
 
-> 🚧 **即将发布，内测中** — 如需内测资格，请联系我们 https://t.me/rainabcde
+> 🚧 **即将发布，内测中** — 如需内测资格，请联系我们 [https://t.me/easydev001](https://t.me/easydev001)
 
 基于定制 Chromium 的**页签级隔离**指纹浏览器，专为自动化场景设计。
 
@@ -61,12 +61,3 @@ CPU · 内存 · 语言 · 语音列表 · 时区 · WebRTC · WebGL · Canvas �
 
 ---
 
-## 与 EasyCDP 配合使用
-
-EasyBrowser 容器功能完整支持 CDP 控制，可通过 [EasyCDP](https://github.com/EasyBrowserDeveloper/EasyCDP) 进行自动化操作：
-
-```python
-browser = await EasyBrowserCDP.launch_and_connect(port=9992, executable=r'path\to\fp_chrome.exe')
-container = await browser.new_container(name="account-1", fingerprint=fp, proxy="http://user:pass@host:port")
-page = await container.new_page("https://example.com")
-```
