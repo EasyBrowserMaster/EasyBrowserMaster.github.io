@@ -1,6 +1,6 @@
 {
 	"version": "0.7.0",
-	"downloadUrl": "https://github.com/EasyBrowserMaster/EasyBrowserMaster.github.io/releases/download/v0.7.0/EasyLauncher-Win-v0.7.0.7z",
+	"downloadUrl": "https://github.com/EasyBrowserMaster/EasyBrowserMaster.github.io/releases/latest/download/EasyLauncher-Win.7z",
 	"releaseNotes": "优化导入导出，支持微软邮箱导入创建环境，增加回收站和MCP功能，增加工具箱获取邮件功能",
 	 "includeBrowser":true,
 	"publishedAt": "2026-05-28"
