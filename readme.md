@@ -1,6 +1,6 @@
 # EasyBrowser
 
-> 🚧 **即将发布，内测中** — 如需内测资格，请联系我们 [https://t.me/easydev001](https://t.me/easydev001)
+>  如需内测资格，请联系我们 [https://t.me/easydev001](https://t.me/easydev001)
 
 基于定制 Chromium 的**页签级隔离**指纹浏览器，专为自动化场景设计。
 
