@@ -1,7 +1,7 @@
 {
-	"version": "0.9.1",
+	"version": "0.9.2",
 	"downloadUrl": "https://github.com/EasyBrowserMaster/EasyBrowserMaster.github.io/releases/latest/download/EasyLauncher-Win.7z",
-	"releaseNotes": "优化网络问题，客户端跟随系统代理，不用再开Clash Tun模式",
+	"releaseNotes": "优化网络问题，客户端跟随系统代理，不用再开Clash Tun模式以及其他已知问题",
 	 "includeBrowser":true,
 	"publishedAt": "2026-06-24"
 }
