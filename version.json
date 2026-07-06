@@ -1,6 +1,6 @@
 {
 	"version": "0.9.5",
-	"downloadUrl": "https://github.com/EasyBrowserMaster/EasyBrowserMaster.github.io/releases/latest/download/EasyLauncher-Win.7z",
+	"downloadUrl": "https://github.com/EasyBrowserMaster/EasyBrowserMaster.github.io/releases/latest/download/EasyLauncher-0.9.5-win.7z",
 	"releaseNotes": "集成xray引擎支持代理链功能，内核增强",
 	 "includeBrowser":true,
 	"publishedAt": "2026-07-06"
