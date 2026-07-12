@@ -4,7 +4,7 @@
 
 A customized Chromium-based fingerprint browser with tab-level isolation.
 
-Official website: [https://easybrowser.pages.dev/](https://easybrowser.pages.dev/)
+Download: [https://easybrowser.pages.dev/](https://easybrowser.pages.dev/)
 
 EasyBrowser is designed for automation, multi-account operations, environment isolation, and testing scenarios. It runs multiple isolated Tab containers inside a single browser instance, giving each tab its own fingerprint, proxy, and data space.
 

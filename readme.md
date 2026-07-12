@@ -4,7 +4,7 @@
 
 基于定制 Chromium 的页签级隔离指纹浏览器。
 
-官网：[https://easybrowser.pages.dev/](https://easybrowser.pages.dev/)
+下载地址：[https://easybrowser.pages.dev/](https://easybrowser.pages.dev/)
 
 EasyBrowser 面向自动化、多账号运营、隔离测试等场景设计，通过单浏览器实例承载多个独立 Tab 容器，让每个标签页都拥有独立的指纹、代理和数据空间。
 
