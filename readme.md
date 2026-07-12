@@ -48,13 +48,19 @@ EasyBrowser 的核心设计不是简单复制多个浏览器窗口，而是在�
 ### 部分测试截图
 
 <p align="center">
-  <img src="case/case-1.png" alt="EasyBrowser 检测结果 1" width="49%" />
-  <img src="case/case-2.png" alt="EasyBrowser 检测结果 2" width="49%" />
+  <img src="case/case-1.png" alt="EasyBrowser 检测结果 1" width="90%" />
 </p>
 
 <p align="center">
-  <img src="case/case-3.png" alt="EasyBrowser 检测结果 3" width="49%" />
-  <img src="case/case-4.png" alt="EasyBrowser 检测结果 4" width="49%" />
+  <img src="case/case-2.png" alt="EasyBrowser 检测结果 2" width="90%" />
+</p>
+
+<p align="center">
+  <img src="case/case-3.png" alt="EasyBrowser 检测结果 3" width="90%" />
+</p>
+
+<p align="center">
+  <img src="case/case-4.png" alt="EasyBrowser 检测结果 4" width="90%" />
 </p>
 
 ## 使用声明与免责声明
