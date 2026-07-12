@@ -1,5 +1,5 @@
 {
-	"version": "0.9.9",
+	"version": "0.9.11",
 	"downloadUrl": "https://github.com/EasyBrowserMaster/EasyBrowserMaster.github.io/releases/download/V0.9.9/EasyLauncher-0.9.9-win.7z",
 	"releaseNotes": "优化体验，强化浏览器内核，修复已知bug",
 	 "includeBrowser":true,
