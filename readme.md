@@ -1,5 +1,7 @@
 # EasyBrowser
 
+[简体中文](readme.md) | [English](README_EN.md)
+
 基于定制 Chromium 的页签级隔离指纹浏览器。
 
 官网：[https://easybrowser.pages.dev/](https://easybrowser.pages.dev/)
