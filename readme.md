@@ -4,9 +4,7 @@
 
 EasyBrowser 基于 C++ 源代码级指纹防护能力构建，面向自动化、多账号运营、隔离测试等场景设计。通过单浏览器实例承载多个独立 Tab 容器，让每个标签页都拥有独立的指纹、代理和数据空间。
 
-下载地址：[https://easybrowser.pages.dev/](https://easybrowser.pages.dev/)
-
-支持平台：![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![macOS Apple Silicon](https://img.shields.io/badge/macOS%20Apple%20Silicon-000000?logo=apple&logoColor=white)
+支持平台：![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![macOS Apple Silicon](https://img.shields.io/badge/macOS%20Apple%20Silicon-000000?logo=apple&logoColor=white) <a href="https://easybrowser.pages.dev/"><img src="https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-EasyBrowser-2ea44f" alt="下载 EasyBrowser" /></a>
 
 ## 核心亮点
 

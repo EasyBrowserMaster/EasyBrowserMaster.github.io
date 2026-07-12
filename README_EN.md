@@ -4,9 +4,7 @@
 
 EasyBrowser is built with C++ source-level fingerprint protection for automation, multi-account operations, and environment isolation testing. It runs multiple isolated Tab containers inside a single browser instance, giving each tab its own fingerprint, proxy, and data space.
 
-Download: [https://easybrowser.pages.dev/](https://easybrowser.pages.dev/)
-
-Supported platforms: ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![macOS Apple Silicon](https://img.shields.io/badge/macOS%20Apple%20Silicon-000000?logo=apple&logoColor=white)
+Supported platforms: ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![macOS Apple Silicon](https://img.shields.io/badge/macOS%20Apple%20Silicon-000000?logo=apple&logoColor=white) <a href="https://easybrowser.pages.dev/"><img src="https://img.shields.io/badge/Download-EasyBrowser-2ea44f" alt="Download EasyBrowser" /></a>
 
 ## Key Features
 
