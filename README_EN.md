@@ -2,11 +2,11 @@
 
 [简体中文](readme.md) | [English](README_EN.md)
 
-A customized Chromium-based fingerprint browser with tab-level isolation.
+EasyBrowser is built with C++ source-level fingerprint protection for automation, multi-account operations, and environment isolation testing. It runs multiple isolated Tab containers inside a single browser instance, giving each tab its own fingerprint, proxy, and data space.
 
 Download: [https://easybrowser.pages.dev/](https://easybrowser.pages.dev/)
 
-EasyBrowser is designed for automation, multi-account operations, environment isolation, and testing scenarios. It runs multiple isolated Tab containers inside a single browser instance, giving each tab its own fingerprint, proxy, and data space.
+Supported platforms: ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![macOS Apple Silicon](https://img.shields.io/badge/macOS%20Apple%20Silicon-000000?logo=apple&logoColor=white)
 
 ## Key Features
 
@@ -29,11 +29,7 @@ EasyBrowser does not simply duplicate multiple browser windows. Its core design 
 - Fingerprint isolation: language, timezone, resolution, WebGL, Canvas, Audio, WebRTC, speech list, and Worker fingerprints are generated independently.
 - Proxy isolation: each Tab can use an independent outbound proxy, and dynamic switching does not affect other environments.
 
-## Detection And Platform Tests
-
-<div align="center">
-
-| Type | Item / Scenario | Result |
+| Scenario | Platform | Result |
 | --- | --- | --- |
 | Fingerprint Test | browserscan | ✅ Passed |
 | Fingerprint Test | creepjs | ✅ Passed |
@@ -44,8 +40,6 @@ EasyBrowser does not simply duplicate multiple browser windows. Its core design 
 | Platform Test | Microsoft Email Registration | ✅ Success |
 | Platform Test | TikTok Registration | ✅ Success |
 | Platform Test | GitHub Registration | ✅ Success |
-
-</div>
 
 ### Test Screenshots
 

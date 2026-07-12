@@ -2,11 +2,11 @@
 
 [简体中文](readme.md) | [English](README_EN.md)
 
-基于定制 Chromium 的页签级隔离指纹浏览器。
+EasyBrowser 基于 C++ 源代码级指纹防护能力构建，面向自动化、多账号运营、隔离测试等场景设计。通过单浏览器实例承载多个独立 Tab 容器，让每个标签页都拥有独立的指纹、代理和数据空间。
 
 下载地址：[https://easybrowser.pages.dev/](https://easybrowser.pages.dev/)
 
-EasyBrowser 面向自动化、多账号运营、隔离测试等场景设计，通过单浏览器实例承载多个独立 Tab 容器，让每个标签页都拥有独立的指纹、代理和数据空间。
+支持平台：![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) ![macOS Apple Silicon](https://img.shields.io/badge/macOS%20Apple%20Silicon-000000?logo=apple&logoColor=white)
 
 ## 核心亮点
 
@@ -29,11 +29,7 @@ EasyBrowser 的核心设计不是简单复制多个浏览器窗口，而是在�
 - 指纹隔离：语言、时区、分辨率、WebGL、Canvas、Audio、WebRTC、语音列表、Worker 指纹独立生成
 - 代理隔离：每个 Tab 独立出站代理，动态切换不影响其他环境
 
-## 检测与平台测试
-
-<div align="center">
-
-| 类型 | 项目 / 场景 | 测试结果 |
+| 场景 | 平台 | 测试结果 |
 | --- | --- | --- |
 | 指纹检测 | browserscan | ✅ 全部通过 |
 | 指纹检测 | creepjs | ✅ 全部通过 |
@@ -44,8 +40,6 @@ EasyBrowser 的核心设计不是简单复制多个浏览器窗口，而是在�
 | 平台测试 | 微软邮箱注册 | ✅ 成功 |
 | 平台测试 | TikTok 注册 | ✅ 成功 |
 | 平台测试 | GitHub 注册 | ✅ 成功 |
-
-</div>
 
 ### 部分测试截图
 
