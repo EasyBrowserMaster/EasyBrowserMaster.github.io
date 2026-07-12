@@ -16,7 +16,7 @@ Supported platforms: ![Windows](https://img.shields.io/badge/Windows-0078D6?logo
 | Proxy Support | Supports HTTP, SOCKS5, and username/password proxy authentication. |
 | Traffic Control | Supports JS and CSS proxy routing, saving 80%+ traffic. |
 | Loading Optimization | Supports disabling high-traffic resources such as images and fonts to improve loading speed and reduce memory usage. |
-| AI MCP | Supports AI automation workflows through MCP for environment management, task orchestration, and browser control. |
+| AI MCP | Supports AI automation workflows through [EasyBrowserMCP](https://github.com/EasyBrowserMaster/EasyBrowserMCP) for environment management, task orchestration, and browser control. |
 | Resource Usage Optimization | Multiple containers share a single browser instance, reducing memory usage during concurrent tasks. |
 
 ## Isolation

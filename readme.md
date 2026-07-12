@@ -16,7 +16,7 @@ EasyBrowser 基于 C++ 源代码级指纹防护能力构建，面向自动化、
 | 代理支持 | 支持 HTTP、SOCKS5 及账密认证代理 |
 | 流量控制 | 支持 JS、CSS 代理分流，节省 80%+ 流量 |
 | 加载优化 | 可按需禁用图片、字体等高流量资源，提高加载速度并节省内存 |
-| AI MCP | 支持通过 MCP 接入 AI 自动化工作流，便于环境管理、任务编排与浏览器控制 |
+| AI MCP | 支持通过 [EasyBrowserMCP](https://github.com/EasyBrowserMaster/EasyBrowserMCP) 接入 AI 自动化工作流，便于环境管理、任务编排与浏览器控制 |
 | 资源占用优化 | 多容器共享浏览器实例，降低多账号并发时的内存消耗 |
 
 ## 隔离能力
