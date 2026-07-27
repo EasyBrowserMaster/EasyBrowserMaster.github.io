@@ -18,6 +18,7 @@ EasyBrowser 基于 C++ 源代码级指纹防护能力构建，面向自动化、
 | 加载优化 | 可按需禁用图片、字体等高流量资源，提高加载速度并节省内存 |
 | AI MCP | 支持通过 [EasyBrowserMCP](https://github.com/EasyBrowserMaster/EasyBrowserMCP) 接入 AI 自动化工作流，便于环境管理、任务编排与浏览器控制 |
 | 资源占用优化 | 多容器共享浏览器实例，降低多账号并发时的内存消耗 |
+| 移动端支持 | iPhone / Android 移动端功能开发中 |
 
 ## 隔离能力
 
@@ -38,6 +39,10 @@ EasyBrowser 的核心设计不是简单复制多个浏览器窗口，而是在�
 | 平台测试 | 微软邮箱注册 | ✅ 成功 |
 | 平台测试 | TikTok 注册 | ✅ 成功 |
 | 平台测试 | GitHub 注册 | ✅ 成功 |
+
+### 测试脚本示例
+
+[EasyBrowserExamples](https://github.com/EasyBrowserMaster/EasyBrowserExamples)：Cloudflare Turnstile 与 reCAPTCHA v3 测试脚本。
 
 ### 部分测试截图
 

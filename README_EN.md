@@ -18,6 +18,7 @@ Supported platforms: ![Windows](https://img.shields.io/badge/Windows-0078D6?logo
 | Loading Optimization | Supports disabling high-traffic resources such as images and fonts to improve loading speed and reduce memory usage. |
 | AI MCP | Supports AI automation workflows through [EasyBrowserMCP](https://github.com/EasyBrowserMaster/EasyBrowserMCP) for environment management, task orchestration, and browser control. |
 | Resource Usage Optimization | Multiple containers share a single browser instance, reducing memory usage during concurrent tasks. |
+| Mobile Support | iPhone / Android mobile features are in development. |
 
 ## Isolation
 
@@ -38,6 +39,10 @@ EasyBrowser does not simply duplicate multiple browser windows. Its core design 
 | Platform Test | Microsoft Email Registration | ✅ Success |
 | Platform Test | TikTok Registration | ✅ Success |
 | Platform Test | GitHub Registration | ✅ Success |
+
+### Test Script Examples
+
+[EasyBrowserExamples](https://github.com/EasyBrowserMaster/EasyBrowserExamples): test scripts for Cloudflare Turnstile and reCAPTCHA v3.
 
 ### Test Screenshots
 
