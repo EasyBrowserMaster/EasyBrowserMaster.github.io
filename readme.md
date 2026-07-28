@@ -62,6 +62,14 @@ EasyBrowser 的核心设计不是简单复制多个浏览器窗口，而是在�
   <img src="case/case-4.png" alt="EasyBrowser 检测结果 4" width="90%" />
 </p>
 
+<p align="center">
+  <img src="case/case-5.png" alt="EasyBrowser 检测结果 5" width="90%" />
+</p>
+
+<p align="center">
+  <img src="case/case-6.png" alt="EasyBrowser 检测结果 6" width="90%" />
+</p>
+
 ## 使用声明与免责声明
 
 EasyBrowser 仅面向合法、合规的技术研究、自动化测试、账号环境隔离、隐私保护和开发调试场景。
