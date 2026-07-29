@@ -12,7 +12,8 @@ EasyBrowser 基于 C++ 源代码级指纹防护能力构建，面向自动化、
 | --- | --- |
 | 页签级隔离 | 每个 Tab 对应一个独立容器，指纹、Cookie、代理互不污染 |
 | 官方对齐 | 对齐 Google Chrome 主流版本特征与闭源组件 |
-| 深度指纹防护 | 覆盖 Canvas、WebGL、AudioContext、WebRTC、Worker、虚拟机等检测点 |
+| 深度指纹防护 | **全面覆盖：** 覆盖 Canvas、WebGL、WebGPU、AudioContext、WebRTC、Worker、虚拟机等检测点<br>**Canvas 防护：** 从渲染底层源头直接处理，绕过一切 Canvas 检测<br>**Audio 防护：** 根据检测机制从源头处理，绕过一切音频检测 |
+| 机器人反检测 | **检测能力：** 成功通过主流厂商的机器人检测<br>**源码防护：** 彻底抹除鼠标、`input` 事件、`Runtime.enable` 与 `console` 等自动化及开发者工具特征<br>**框架兼容：** 使用常见自动化框架时也不会暴露相关特征 |
 | 代理支持 | 支持 HTTP、SOCKS5 及账密认证代理 |
 | 流量控制 | 支持 JS、CSS 代理分流，节省 80%+ 流量 |
 | 加载优化 | 可按需禁用图片、字体等高流量资源，提高加载速度并节省内存 |

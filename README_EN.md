@@ -12,7 +12,8 @@ Supported platforms: ![Windows](https://img.shields.io/badge/Windows-0078D6?logo
 | --- | --- |
 | Tab-Level Isolation | Each Tab maps to an isolated container. Fingerprints, Cookies, and proxies do not interfere with each other. |
 | Official Alignment | Aligns with mainstream Google Chrome version characteristics and closed-source components. |
-| Deep Fingerprint Protection | Covers Canvas, WebGL, AudioContext, WebRTC, Worker, virtual machine, and other detection surfaces. |
+| Deep Fingerprint Protection | **Comprehensive Coverage:** Covers Canvas, WebGL, WebGPU, AudioContext, WebRTC, Worker, virtual machine, and other detection surfaces.<br>**Canvas Protection:** Handles fingerprints directly at the rendering source to bypass all Canvas detection.<br>**Audio Protection:** Handles fingerprints at the source based on detection mechanisms to bypass all audio detection. |
+| Anti-Bot Detection | **Detection:** Passes bot detection from major providers.<br>**Source-Level Protection:** Removes mouse and `input` event, `Runtime.enable`, `console`, automation, and developer-tool fingerprints.<br>**Framework Compatibility:** Prevents related fingerprint leaks when common automation frameworks are used. |
 | Proxy Support | Supports HTTP, SOCKS5, and username/password proxy authentication. |
 | Traffic Control | Supports JS and CSS proxy routing, saving 80%+ traffic. |
 | Loading Optimization | Supports disabling high-traffic resources such as images and fonts to improve loading speed and reduce memory usage. |
